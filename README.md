@@ -1,1 +1,0 @@
-# automated-detection-eye-disease
