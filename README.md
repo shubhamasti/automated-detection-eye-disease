@@ -4,7 +4,9 @@ Training and testing code for automated and explainable detection of Pathologica
 
 ## Requirements
 Python version 3.8
+
 tensorflow version 2.9 (for mac, use tensorflow-macos)
+
 keras version 2.9
 
 Other supporting packages
