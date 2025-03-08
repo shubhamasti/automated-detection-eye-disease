@@ -2,6 +2,21 @@
 
 Training and testing code for automated and explainable detection of Pathological Myopia, Glaucoma and Diabetic Retinopathy.
 
+## Requirements
+Python version 3.8
+tensorflow version 2.9 (for mac, use tensorflow-macos)
+keras version 2.9
+
+Other supporting packages
+- tf_keras_vis
+- albumentations
+- opencv-python
+- scikit-learn
+- matplotlib
+- pandas
+- numpy
+- tqdm
+
 ## 1. Diabetic Retinopathy (DR)
 
 test.ipynb: Test out the performance for detection and grading of DR on DDR and IDRiD datasets.
